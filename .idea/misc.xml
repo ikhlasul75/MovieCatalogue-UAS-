@@ -3,10 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MovieCatalogue/app/src/main/res/drawable/ic_baseline_local_movies_24.xml" value="0.1075" />
         <entry key="..\:/MovieCatalogue/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1075" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/drawable/wa.xml" value="0.1075" />
         <entry key="..\:/MovieCatalogue/app/src/main/res/layout/activity_detail_movie.xml" value="0.16666666666666666" />
-        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/activity_detail_tv_show.xml" value="0.184375" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/adapter_link.xml" value="0.18333333333333332" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/fragment_favorite.xml" value="0.184375" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/fragment_movie.xml" value="0.184375" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/fragment_profile.xml" value="0.184375" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/fragment_tv_show.xml" value="0.184375" />
         <entry key="..\:/MovieCatalogue/app/src/main/res/layout/movie_item.xml" value="0.184375" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/layout/tvshow_item.xml" value="0.184375" />
+        <entry key="..\:/MovieCatalogue/app/src/main/res/menu/menu_bottom.xml" value="0.1403091557669441" />
       </map>
     </option>
   </component>

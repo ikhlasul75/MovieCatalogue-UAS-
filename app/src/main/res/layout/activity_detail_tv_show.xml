@@ -6,13 +6,13 @@
     android:layout_height="match_parent"
     android:layout_margin="17dp"
     android:orientation="vertical"
-    tools:context=".DetailMovieActivity">
-    
+    tools:context=".DetailTvShowActivity">
+
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-        
+
         <ImageView
             android:id="@+id/img_poster"
             android:layout_width="140dp"
@@ -47,7 +47,7 @@
                 android:id="@+id/tv_status"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Movie"
+                android:text="Serial Tv"
                 android:textSize="18sp"
                 android:textColor="#000"
                 android:layout_marginLeft="13dp" />

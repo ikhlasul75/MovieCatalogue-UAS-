@@ -15,7 +15,10 @@ class MovieAdapter(
             class MovieViewHolder (view: View) : RecyclerView.ViewHolder(view) {
                 fun bindMovie(movie : Movie) {
                     itemView.movie_title.text = movie.title
+                    itemView.movie_popularity.text = movie.popularity
                     itemView.movie_release_date.text = movie.release
+
+
                     Glide.with(itemView).load(IMAGE_BASE + movie.poster)
                         .into(itemView.movie_poster)
                     Log.e("MovieAdapter", "URL Image ==> $IMAGE_BASE${movie.poster}")
